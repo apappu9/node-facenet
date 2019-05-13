@@ -6,6 +6,6 @@ pytest
 opencv-python
 scipy
 sklearn
-tensorflow
+tf-nightly
 typing
 wheel
